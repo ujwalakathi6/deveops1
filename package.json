@@ -1,5 +1,5 @@
 {
-  "name": "server",
+  "name": "pipeline",
   "version": "1.0.0",
   "description": "My simple website",
   "main": "index.js",
